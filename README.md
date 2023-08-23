@@ -1,5 +1,5 @@
 
-<h1 aalign="center">
+<h1 align="center">
         My Dock Finder</h1>
 <br></br>
 
