@@ -1,6 +1,3 @@
-# my_dock_finder
-
-
 
 <h1 aalign="center">
         My Dock Finder</h1>
@@ -13,7 +10,11 @@ Features
 <h2>Using WinUI Blur Effect</h2>
 <h4>Perfect support for the latest version of win11 system, use WinUI blur effect to adjust the blur strength, some interfaces use Win11 mica effect.</h4>
 
-https://github.com/shubham01015/my_dock_finder/assets/74341381/b736ec17-01da-49bd-a058-b5b71f0527bd
+
+
+https://github.com/shubham01015/my_dock_finder/assets/74341381/be7fc4a4-81d2-4254-8274-269eeef00355
+
+
 <br></br>
 <h2>
   
@@ -54,7 +55,7 @@ https://github.com/shubham01015/my_dock_finder/assets/74341381/ba94d422-b0d3-4f8
 ![6](https://github.com/shubham01015/my_dock_finder/assets/74341381/c44892ea-70fa-4a65-84fe-92ab15cdd745)
 
 <h2>
-  
+  <br></br>
 Discord, WeChat, QQ, DingTalk message reminder
   </h2>
 <h4>
