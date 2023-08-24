@@ -56,6 +56,7 @@ Features
 <h2>Using WinUI Blur Effect</h2>
 <h4>Perfect support for the latest version of win11 system, use WinUI blur effect to adjust the blur strength, some interfaces use Win11 mica effect.</h4>
 
+![1 ( (1)](https://github.com/shubham01015/my_dock_finder/assets/74341381/18e9ba6e-25ae-4271-a833-07a69dcd966f)
 
 
 https://github.com/shubham01015/my_dock_finder/assets/74341381/be7fc4a4-81d2-4254-8274-269eeef00355
